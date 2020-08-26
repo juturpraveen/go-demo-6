@@ -1,0 +1,4 @@
+echo "go-demo-6-db:
+  replicaSet:
+    enabled: true
+" | tee -a charts/go-demo-6/values.yaml
